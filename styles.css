@@ -1,0 +1,14 @@
+* {
+    color: #a10000;
+    background-color: #ffffe6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p, li {
+    color: #540000;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
